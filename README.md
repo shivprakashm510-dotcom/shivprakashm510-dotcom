@@ -2,6 +2,8 @@
   <!-- Dynamic Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PROTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif/>
+
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   
   <span>
