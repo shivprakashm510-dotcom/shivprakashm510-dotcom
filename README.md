@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- Dynamic Waving Banner -->
-  <img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3b9d715c-893b-4fd3-91be-688d9fdc3a5f" />
-?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=SHIV%20PRAKASH&fontSize=45&animation=fadeIn&fontColor=ffffff" />
   
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   <h3><span style="color: #E67E22;">Full Stack Developer Learner</span> | Building My Way From Frontend Elegance To Backend Logic🐣</h3>
