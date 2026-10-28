@@ -1,23 +1,17 @@
 <div align="center">
   <!-- Dynamic Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PORTFOLIO&fontSize=32&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PROTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff". />
 
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
-  <h3><span style="color: #E67E22;">Full Stack Developer Learner</span> | Building My Way From Frontend Elegance To Backend Logic</h3>
-  <p><i>"CODE, LEARN, BUILD, REPEAT."</i></p>
-
-  <!-- Email Contact Badge -->
-  <p>
-    <a href="mailto:shivprakashm510@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+  
+  <span>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=100&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
+  </p></div>
 
 ---
 
 ### 🚀 About Me
-* 💻 **I'm currently learning:** HTML, CSS, JavaScript, React
+* 💻**I'm currently learning:** HTML, CSS, JavaScript, React
 * 💬 **Ask me about:** Frontend Development, Web Development
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
 * ⚡ **Fun fact:** Still wondering why semicolons are so important
@@ -38,19 +32,22 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shivprakashm510-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <!-- Top Languages Used -->
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivprakashm510-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivprakashm510-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
-
-<br>
-
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprakashm510-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+
+
+
+
+
+
+
+
+
