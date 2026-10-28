@@ -33,7 +33,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b5876,100:4e4376&height=8&section=header" width="100%"/>
+  
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF7F,100:00FFFF&height=8&section=header" width="100%"/>
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
