@@ -4,8 +4,7 @@
   <h3><span style="color: #E67E22;">Full Stack Developer Learner</span> | Building My Way From Frontend Elegance To Backend Logic🐣</h3>
   <p><i>"CODE👨‍💻, LEARN📚, BUILD🚀, REPEAT🔁."</i></p>
 </div>
-<img align="right" alt="coding" width="350" height=200 alt="image" src="https://github.com/user-attachments/assets/9cf9abbf-24a9-4940-bf3b-99b80a2c70cc" />
-    
+
 ---
 
 ### 🚀 About Me
