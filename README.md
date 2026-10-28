@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PROTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20DEV%20SPACE🚀&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
   
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=2&section=header" width="100%"/>
