@@ -35,7 +35,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF7F,100:00FFFF&height=2&section=header" width="100%"/>
 
----
+
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
