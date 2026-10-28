@@ -2,7 +2,7 @@
   <!-- Dynamic Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PROTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF0000&height=4&section=header" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000333,100:FF0000&height=4&section=header" width="50%"/>
 
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   
