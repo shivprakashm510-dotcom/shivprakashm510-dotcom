@@ -33,7 +33,7 @@
 </p>
 
 ---
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,100:8B0000&height=4&section=header" width="100%"/>
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
