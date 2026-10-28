@@ -1,4 +1,4 @@
-![logo](https://tenor.com/en-GB/search/code-coding-gifs)
+![logo](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)
 <div align="center">
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   <h3><span style="color: #E67E22;">Full Stack Developer Learner</span> | Building My Way From Frontend Elegance To Backend Logic🐣</h3>
