@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIV PRAKASH</h1>
-<h3 align="center">🍀Full Stack Developer Learner/ Building My Way From Frontend Elegance To Backend Logic. "CODE ,LEARN BUILD,REPEAT.🚀</h3>
+<h3 align="center">🍀Full Stack Developer Learner/ Building My Way From Frontend Elegance To Backend Logic. "CODE ,LEARN BUILD,REPEAT".🚀</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,REACT**
 
