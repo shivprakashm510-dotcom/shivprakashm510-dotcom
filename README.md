@@ -21,7 +21,9 @@
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
 * ⚡ **Fun fact:** Still wondering why semicolons are so important
 
----
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000333,100:FF0000&height=2&section=header" width="100%" />
+
+
 
 ### 🛠️ Languages and Tools
 
