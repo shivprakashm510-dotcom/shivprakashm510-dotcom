@@ -2,6 +2,9 @@
   <!-- Dynamic Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PROTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
+  
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=2&section=header" width="100%"/>
+
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   
   <span>
@@ -30,8 +33,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=2&section=header" width="100%"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF7F,100:00FFFF&height=4&section=header" width="100%"/>
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
