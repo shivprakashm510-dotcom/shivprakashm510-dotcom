@@ -1,23 +1,33 @@
 <div align="center">
   <!-- Dynamic Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PROTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff" />
-   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=2&section=header" width="100%"/>
-  
-  <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1> 
-  
-   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,100:FFD700&height=1&section=header" width="100%"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=100&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
-  </p></div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PORTFOLIO&fontSize=32&animation=fadeIn&fontColor=ffffff" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=2&section=header" width="100%"/>
+  <!-- Gradient Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=4&section=header" width="100%"/>
+
+  <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
+  <h3><span style="color: #E67E22;">Full Stack Developer Learner</span> | Building My Way From Frontend Elegance To Backend Logic</h3>
+  <p><i>"CODE, LEARN, BUILD, REPEAT."</i></p>
+
+  <!-- Email Contact Badge -->
+  <p>
+    <a href="mailto:shivprakashm510@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,100:FFD700&height=4&section=header" width="100%"/>
 
 ### 🚀 About Me
-* 💻**I'm currently learning:** HTML, CSS, JavaScript, React
+* 💻 **I'm currently learning:** HTML, CSS, JavaScript, React
 * 💬 **Ask me about:** Frontend Development, Web Development
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
 * ⚡ **Fun fact:** Still wondering why semicolons are so important
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=2&section=header" width="100%"/>
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,100:FFD700&height=4&section=header" width="100%"/>
 
 ### 🛠️ Languages and Tools
 
@@ -31,19 +41,25 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF7F,100:00FFFF&height=2&section=header" width="100%"/>
-
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,100:FFD700&height=4&section=header" width="100%"/>
 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivprakashm510-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shivprakashm510-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <!-- Top Languages Used -->
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivprakashm510-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<br>
+
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprakashm510-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 
 
 
