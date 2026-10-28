@@ -5,7 +5,7 @@
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   
   <span>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=10000&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
   </p></div>
 
 ---
