@@ -1,20 +1,14 @@
 <div align="center">
   <!-- Dynamic Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PROTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff" />
-  
- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=2&section=header" width="100%"/>
-  
-  <h1>👋 Hi, I'm <span> style="color: #3498DB;">SHIV PRAKASH </span></h1>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,100:FFD700&height=0.8&section=header" width="100%"/>
-  
 
+  <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   
   <span>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=100&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
   </p></div>
 
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000333,100:FF0000&height=2&section=header" width="100%" />
+---
 
 ### 🚀 About Me
 * 💻**I'm currently learning:** HTML, CSS, JavaScript, React
@@ -22,9 +16,7 @@
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
 * ⚡ **Fun fact:** Still wondering why semicolons are so important
 
- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000333,100:FF0000&height=2&section=header" width="100%" />
-
-
+---
 
 ### 🛠️ Languages and Tools
 
@@ -38,8 +30,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF7F,100:00FFFF&height=2&section=header" width="100%"/>
-
+---
 
 ### 📊 GitHub Activity & Stats
 
