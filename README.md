@@ -3,7 +3,7 @@
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
   <h3><span style="color: #E67E22;">Full Stack Developer Learner</span> | Building My Way From Frontend Elegance To Backend Logic🐣</h3>
   <p><i>"CODE👨‍💻, LEARN📚, BUILD🚀, REPEAT🔁."</i></p>
-  <img align="right" alt="coding" width=""400px Src="<img width="1350" height="300" alt="image" src="https://github.com/user-attachments/assets/2a952138-4365-4976-90ce-58ac5cb63d6e" />
+  <img align="right" alt="coding" width="400px" Src="<img width="1350" height="300" alt="image" src="https://github.com/user-attachments/assets/2a952138-4365-4976-90ce-58ac5cb63d6e" />
 "
     
 </div>
