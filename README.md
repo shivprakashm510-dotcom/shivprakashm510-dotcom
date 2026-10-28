@@ -32,5 +32,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/shivprakashm510-dotcom">
   <img src="https://github-readme-stats.vercel.app/api?username=shivprakashm510-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
