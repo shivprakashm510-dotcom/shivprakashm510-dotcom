@@ -3,9 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7928CA&height=180&section=header&text=WELCOME%20TO%20MY%20PRORTFOLIO&fontSize=45&animation=fadeIn&fontColor=ffffff". />
 
   <h1>👋 Hi, I'm <span style="color: #3498DB;">SHIV PRAKASH</span></h1>
-  <h3><span style="color: #E67E22;">Full Stack Developer Learner</span> | Building My Way From Frontend Elegance To Backend Logic🐣</h3>
-  <p><i>"CODE👨‍💻, LEARN📚, BUILD🚀, REPEAT🔁."</i></p>
-</div>
+  <h3><span style="color: #E67E22;">Full Stack Dev
+  p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
+  </p></div>
 
 ---
 
