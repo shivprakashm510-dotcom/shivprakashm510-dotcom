@@ -14,6 +14,8 @@
 ---
 
 ### 🥂About Me
+<img align="right" width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b5b3fd11-2ab4-4ec6-b4b9-d664a3a19b1c" />
+
 * 💻**I'm currently learning:** HTML, CSS, JavaScript, React
 * 💬 **Ask me about:** Frontend Development, Web Development
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
