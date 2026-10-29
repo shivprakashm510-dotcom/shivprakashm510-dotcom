@@ -5,9 +5,7 @@
   
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=2&section=header" width="100%"/>
 
-  <h1>
-    <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Profile Image" style="max-width: 90%; display: inline-block;" data-target="animated-image.originalImage">
-    Hello World!, I'm <span style="color: #3498DB;">SHIV, a indian web devolper 👋: </span></h1>
+  <h1>Hello World!, I'm <span style="color: #3498DB;">SHIV, a indian web devolper 👋: </span></h1>
   
   <span>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=100&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
