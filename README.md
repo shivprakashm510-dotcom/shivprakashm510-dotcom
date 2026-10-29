@@ -20,7 +20,7 @@
 * ⚡ **Fun fact:** Still wondering why semicolons are so important
 
 ---
-
+<img src="https://raw.githubusercontent.com/Masum-Arifin/Masum-Arifin/main/masum.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 ### 🛠️ Languages and Tools
 
 <p align="center">
