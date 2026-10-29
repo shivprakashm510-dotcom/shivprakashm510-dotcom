@@ -13,7 +13,7 @@
 
 ---
 
-### 🔓About Me
+### 🥂About Me
 * 💻**I'm currently learning:** HTML, CSS, JavaScript, React
 * 💬 **Ask me about:** Frontend Development, Web Development
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
@@ -36,6 +36,7 @@
   
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF7F,100:00FFFF&height=8&section=header" width="100%"/>
+  
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
