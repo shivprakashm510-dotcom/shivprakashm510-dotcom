@@ -14,7 +14,8 @@
 ---
 
 ### 🥂About Me
-<img align="right" width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b5b3fd11-2ab4-4ec6-b4b9-d664a3a19b1c" />
+<img align="right" width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/1902bf9b-1b15-47dd-bcff-038cb9f3250a" />
+
 
 * 💻**I'm currently learning:** HTML, CSS, JavaScript, React
 * 💬 **Ask me about:** Frontend Development, Web Development
