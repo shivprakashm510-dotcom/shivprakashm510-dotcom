@@ -5,6 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:4B0082&height=4&section=header" width="100%"/>
 
   <h1>Hello World!, I'm <style="color: #3498DB;">SHIV, a indian web deveolper 👨‍💻: </h1>
+    
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:4B0082&height=4&section=header" width="100%"/>
   <span>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=100&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
