@@ -4,8 +4,6 @@
 
   <h1>Hello World!, I'm <span style="color: #3498DB;">SHIV, a indian web deveolper 👨‍💻: </span></h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!%2C+I'm+SHIV%2C+a+indian+web+deveolper+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A)](https://git.io/typing-svg)
-  
   <span>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=100&color=E67E22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Learner;Building+My+Way+From+Frontend+Elegance+To+Backend+Logic🐣;CODE👨‍💻,+LEARN📚,+BUILD🚀,+REPEAT🔁." alt="Typing SVG" />
   </p></div>
