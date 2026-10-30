@@ -18,11 +18,7 @@
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
 * ⚡ **Fun fact:** Still wondering why semicolons are so important
   <!-- Live Visitor Counter -->
-  <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=shivprakashm510-dotcom&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
-  </p>
-</div>
+ 
 
 ---
 <img src="https://raw.githubusercontent.com/Masum-Arifin/Masum-Arifin/main/masum.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -52,4 +48,10 @@
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprakashm510-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+ <div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shivprakashm510-dotcom&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
+  </p>
 </div>
