@@ -50,7 +50,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprakashm510-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<hr>
+<hr>   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF7F,100:00FFFF&height=4&section=header" width="100%"/>
+  
  <div align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=shivprakashm510-dotcom&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
