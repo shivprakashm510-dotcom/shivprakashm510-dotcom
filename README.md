@@ -18,7 +18,7 @@
 * 📫 **How to reach me:** [shivprakashm510@gmail.com](mailto:shivprakashm510@gmail.com)
 * ⚡ **Fun fact:** Still wondering why semicolons are so important
   <!-- Live Visitor Counter -->
-  <div align="right">
+  <div align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=shivprakashm510-dotcom&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
   </p>
