@@ -42,6 +42,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivprakashm510-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
+
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivprakashm510-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
